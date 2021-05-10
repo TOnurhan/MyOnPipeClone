@@ -1,5 +1,5 @@
 # MyOnPipeClone
-In this project, i tried to make OnPipe, my very first game. This game is developed in 2 days.
+In this project, I tried to make OnPipe, my very first game. I developed this game in 2 days.
 
 <img src="https://media0.giphy.com/media/AF1Uoib38yVd7b3pEa/giphy.gif" width="200" height="400" />
 
