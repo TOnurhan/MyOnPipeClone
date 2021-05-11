@@ -10,3 +10,5 @@ I have learned how to:
 - Handle the game and how to handle finish conditions.
 - Handle point system.
 - Create camera script that follows target.
+- Use blender for my games when needed.
+- Use animations in Unity.
